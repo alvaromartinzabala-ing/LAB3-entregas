@@ -1,4 +1,4 @@
-# Simulador y ensamblador · Grupo 7
+# Simulador y ensamblador · Grupo 7 - Nombre de la ISA: LB-3 (Little Byte)
 
 Ensamblador multimódulo y simulador funcional implementados en HTML, CSS y JavaScript (ISA-LC3 Studio). No requieren instalación ni servidor.
 
