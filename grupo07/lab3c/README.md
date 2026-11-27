@@ -1,5 +1,5 @@
-# Simulador y ensamblador · Grupo 7 - Nombre de la ISA: LB-3 (Little Byte)
-
+# - Simulador y ensamblador · Grupo 7 - 
+# Nombre de la ISA: LB-3 (Little Byte)
 Ensamblador multimódulo y simulador funcional implementados en HTML, CSS y JavaScript (ISA-LC3 Studio). No requieren instalación ni servidor.
 
 ## Cómo ejecutar
@@ -9,7 +9,7 @@ Ensamblador multimódulo y simulador funcional implementados en HTML, CSS y Java
 **Local:** abrí `index.html` con un navegador. Requiere conexión a internet, al abrirlo desde disco, el navegador puede impedir la carga automática del benchmark; en ese caso usá **Cargar .zip** y seleccioná `benchmark/benchmark_g7.zip`.
 
 Al abrir la página, el benchmark se carga automáticamente. Si no aparece, usá **Cargar .zip** y seleccioná `benchmark/benchmark_g7.zip`. También se pueden soltar los archivos `.asm` o el `.zip` sobre la página.
-
+ 
 ## Cómo probar el benchmark
 
 1. Verificá que el benchmark esté cargado en el panel **Ensamblador** (pestaña `main_grupo27` y los módulos de `lib/`).
